@@ -69,13 +69,13 @@ Teaching
 
 Selected Awards
 ======
-* 2024: Best Student Presentation (of 42 participants) | International Biometric Society
-* 2023: Best Paper Award (of over 50 published papers) | Canadian Journal of Statistics
-* 2023: Marshall Prize (outstanding statistics graduate student) | Univerity of British Columbia
-* 2022: Rick White Award (outstanding interdisciplinary statistics PhD student) | Univerity of British Columbia
-* 2020: Best PhD Presentation | Canadian Student Statistical Conference
-* 2019: Four Year Fellowship (outstanding incoming statistics PhD student) | Univerity of British Columbia
-* 2018: Outstanding Graduate of the College (of ~1,000 graduating students) | Univeristy of Colorado, Boulder
+* 2024: Best Student Presentation (of 42 participants), International Biometric Society
+* 2023: Best Paper Award (of over 50 published papers), Canadian Journal of Statistics
+* 2023: Marshall Prize (outstanding statistics graduate student), Univerity of British Columbia
+* 2022: Rick White Award (outstanding interdisciplinary statistics PhD student), Univerity of British Columbia
+* 2020: Best PhD Presentation, Canadian Student Statistical Conference
+* 2019: Four Year Fellowship (outstanding incoming statistics PhD student), Univerity of British Columbia
+* 2018: Outstanding Graduate of the College (of ~1,000 graduating students), Univeristy of Colorado, Boulder
 
 Service
 ======
