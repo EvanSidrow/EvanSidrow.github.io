@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* **Ph.D in Statistics**, University of Bristish Columbia, 2024
+* **Ph.D, Statistics**, University of Bristish Columbia, 2024
   * Advisors: Dr. Nancy Heckman & Dr. Marie Auger-Méthé
   * Dissertation: *Modelling complex biologging data with hidden Markov models*
   * Cumulative GPA: 4.0/4.0
-* **B.S. / M.S. in Applied Mathematics**, University of Colorado, 2018
+* **B.S. / M.S., Applied Mathematics**, University of Colorado, 2018
   * Advisor: Dr. Jem Corcoran
   * Thesis: *Network structure sampling in Bayesian networks via perfect sampling from linear extensions*
   * Cumulative GPA: 4.0/4.0 
