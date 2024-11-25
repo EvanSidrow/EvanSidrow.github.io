@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/TA-UBC
 venue: "University of British Columbia, Statistics"
-date: 2019-01-01
+date: 2024-01-01
 location: "Vancouver, BC, Canada"
 ---
 - STAT 443: Time Series and Forecasting, Spring 2024
