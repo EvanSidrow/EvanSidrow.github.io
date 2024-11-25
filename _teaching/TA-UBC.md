@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant, UBC Vancouver"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/TA-UBC
