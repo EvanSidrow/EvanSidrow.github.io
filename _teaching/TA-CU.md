@@ -4,7 +4,6 @@ collection: teaching
 type: ""
 permalink: /teaching/TA-CU
 venue: "University of Colorado, Applied Mathematics"
-date: 2017-2018
 location: "Boulder, CO, USA"
 ---
 
