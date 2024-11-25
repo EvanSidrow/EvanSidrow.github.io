@@ -14,7 +14,7 @@ Outside of work, I like to spend my time running, rock climbing, snowboarding, a
 Research Interests
 ======
 
-I am interested in doubly stochastic processes (hidden Markov models, state-space models, etc.) to analyze large and complex datasets, particuarly in ecology. During my PhD, I focused on modelling and fitting hidden Markov models to identify hunting behaviours in killer whales, and I am currently working to integrate deep learning techniques into this framework.
+I am interested in doubly stochastic processes (hidden Markov models, state-space models, etc.) to analyze large and complex datasets, particuarly in ecology. During my PhD, I focused on modelling and fitting hidden Markov models to identify hunting behaviours in killer whales. I am currently working to integrate deep learning techniques into this framework.
 
 I also have a strong interest in Bayesian inference over network structures such as phyologenetic trees and Bayesian networks. I am currently focused on Bayesian phylogentic inference. Previously, [Jem Corcoran](https://amath.colorado.edu/faculty/corcoran/) and I designed an MCMC algorithm to sample Bayesian networks from categorical data.
 
