@@ -21,7 +21,7 @@ repository               : "evansidrow.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.heic"
+  avatar           : "profile.jpeg"
   name             : "Evan Sidrow"
   pronouns         : # example: "she/her"  
   bio              : "Distinguished Postdoctoral Fellow in Statistics at Simon Fraser University"
