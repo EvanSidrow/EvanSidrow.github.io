@@ -4,7 +4,7 @@ collection: teaching
 type: "Learning Assistant"
 permalink: /teaching/LA-CU
 venue: "University of Colorado, Applied Mathematics"
-date: 2014-01-01
+date: 2015-01-01
 location: "Boulder, CO, USA"
 ---
 - APPM 3170: Discrete Mathematics, Fall 2015
