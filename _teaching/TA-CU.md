@@ -1,9 +1,10 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: ""
+type: "Teaching Assistant"
 permalink: /teaching/TA-CU
 venue: "University of Colorado, Applied Mathematics"
+date: 2017
 location: "Boulder, CO, USA"
 ---
 
