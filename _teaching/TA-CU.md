@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant, CU Boulder"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/TA-CU
