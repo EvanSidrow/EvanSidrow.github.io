@@ -37,7 +37,7 @@ Work experience
   * Developed deep learning architectures (e.g., LSTMs and autoencoders) to diagnose anomalies in high-dimensional time series sensor data
   * Created application to automatically query multiple databases and detect hard drive manufacturing errors
  
-* **Data Scientist Intern**, Code42 Software: Summer 2017
+* **Data Science Intern**, Code42 Software: Summer 2017
   * Used machine learning (DBSCAN, SVM) to find anomalies in IP addresses
   * Traced and plotted the file history within the company using Python
   * Extensive use of Pandas and Spark on an AWS EMR cluster
@@ -73,7 +73,7 @@ Selected Awards
 * **Best Paper Award** (of over 50 published papers), Canadian Journal of Statistics: 2023
 * **Marshall Prize** (outstanding statistics graduate student), Univerity of British Columbia: 2023
 * **Rick White Award** (outstanding interdisciplinary statistics PhD student), Univerity of British Columbia: 2022
-* **Best PhD Presentation**, Canadian Student Statistical Conference: 2020
+* **Best PhD Presentation** (of 24 participants), Canadian Student Statistical Conference: 2020
 * **Four Year Fellowship** (outstanding incoming statistics PhD student), Univerity of British Columbia: 2019
 * **Outstanding Graduate of the College** (of ~1,000 graduating students), Univeristy of Colorado Boulder: 2018
 
