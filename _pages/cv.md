@@ -49,6 +49,16 @@ Technical Skills
 * **Software Tools**: 
   * Git, Mathematica, LaTeX, OSX, Windows, Linux
 
+Selected Awards
+======
+* **Best Student Presentation** (of 42 participants), International Biometric Society: 2024
+* **Best Paper Award** (of over 50 published papers), Canadian Journal of Statistics: 2023
+* **Marshall Prize** (outstanding statistics graduate student), Univerity of British Columbia: 2023
+* **Rick White Award** (outstanding interdisciplinary statistics PhD student), Univerity of British Columbia: 2022
+* **Best PhD Presentation** (of 24 participants), Canadian Student Statistical Conference: 2020
+* **Four Year Fellowship** (outstanding incoming statistics PhD student), Univerity of British Columbia: 2019
+* **Outstanding Graduate of the College** (of ~1,000 graduating students), Univeristy of Colorado Boulder: 2018
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -66,16 +76,6 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single.html %}
   {% endfor %}</ul>
-
-Selected Awards
-======
-* **Best Student Presentation** (of 42 participants), International Biometric Society: 2024
-* **Best Paper Award** (of over 50 published papers), Canadian Journal of Statistics: 2023
-* **Marshall Prize** (outstanding statistics graduate student), Univerity of British Columbia: 2023
-* **Rick White Award** (outstanding interdisciplinary statistics PhD student), Univerity of British Columbia: 2022
-* **Best PhD Presentation** (of 24 participants), Canadian Student Statistical Conference: 2020
-* **Four Year Fellowship** (outstanding incoming statistics PhD student), Univerity of British Columbia: 2019
-* **Outstanding Graduate of the College** (of ~1,000 graduating students), Univeristy of Colorado Boulder: 2018
 
 Service
 ======
