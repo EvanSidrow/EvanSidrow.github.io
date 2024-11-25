@@ -1,9 +1,10 @@
 ---
 title: "Learning Assistant"
 collection: teaching
-type: ""
+type: "Learning Assistant"
 permalink: /teaching/LA-CU
 venue: "University of Colorado, Applied Mathematics"
+date: 2014
 location: "Boulder, CO, USA"
 ---
 
