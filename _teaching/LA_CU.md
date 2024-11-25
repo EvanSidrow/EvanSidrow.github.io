@@ -1,5 +1,5 @@
 ---
-title: "Learning Assistant"
+title: "Learning Assistant, CU Boulder"
 collection: teaching
 type: "Learning Assistant"
 permalink: /teaching/LA-CU
