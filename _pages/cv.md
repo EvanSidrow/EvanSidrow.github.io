@@ -20,7 +20,7 @@ Education
   * Thesis: *Network structure sampling in Bayesian networks via perfect sampling from linear extensions*
   * Cumulative GPA: 4.0/4.0 
 
-Work experience
+Work Experience
 ======
 * **Distinguished Postdoctoral Research Fellow**, Simon Fraser University: Oct 2024 - Present
   * Develop variational Bayesian inference techniques over phylogenetic trees
